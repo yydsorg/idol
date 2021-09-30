@@ -130,7 +130,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} - now My Project, Inc. Built with Docusaurus.` +`&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn">ICP备案:京ICP备19000049号-2</a>`,
+      copyright: `Copyright © ${new Date().getFullYear()} - now My Project, Inc. Built with Docusaurus.` +`&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn">ICP备案:京ICP备19000049号-2</a>`+`&nbsp;&nbsp;&nbsp;&nbsp;`+`<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1277846958'%3E%3C/span%3E%3Cscript src='https://s5.cnzz.com/z_stat.php%3Fid%3D1277846958%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>`,
     },
     prism: {
       theme: lightCodeTheme,
